@@ -1,0 +1,28 @@
+.product-container{
+    width: 100%; 
+}
+
+.product-list{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    padding-left: 0px;
+    flex-wrap: wrap;
+}
+
+.product-con-bottom{
+    display: flex;
+    justify-content: center;
+}
+
+.product-con-button{
+    height: 26px;
+    border-radius: 13px;
+    background-color: green;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+}
