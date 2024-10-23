@@ -56,15 +56,15 @@ const Header = () =>{
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <ul class="navbar-nav nav-container-mini-ul">
                             <li class="nav-link">Home</li>
-                            <li class="nav-link nav-con2-p1" href="#">Plants & Plots</li>
-                            <li class="nav-link nav-con2-p2" href="#">Tools {down}</li>
-                            <li class="nav-link nav-con2-p2" href="#">Our Services {down}</li>
-                            <li class="nav-link" href="#">Blog</li>
-                            <li class="nav-link" href="#">Our Story</li>
-                            <li class="nav-link" href="#">FAQs</li>
-                            <li class="nav-link nav-con2-p2" href="#">{profile} My profile</li>
-                            <li class="nav-link nav-con2-p2" href="#">{cart} <span className="nav-con3-sp">3</span> Cart</li>
-                            <li class="nav-link nav-con2-p2" href="#">Blog</li>
+                            <li class="nav-link nav-con2-p1">Plants & Plots</li>
+                            <li class="nav-link nav-con2-p2">Tools {down}</li>
+                            <li class="nav-link nav-con2-p2">Our Services {down}</li>
+                            <li class="nav-link">Blog</li>
+                            <li class="nav-link">Our Story</li>
+                            <li class="nav-link">FAQs</li>
+                            <li class="nav-link nav-con2-p2">{profile} My profile</li>
+                            <li class="nav-link nav-con2-p2">{cart} <span className="nav-con3-sp">3</span> Cart</li>
+                            <li class="nav-link nav-con2-p2">Blog</li>
                         </ul>
                     </div>
                 </nav>
