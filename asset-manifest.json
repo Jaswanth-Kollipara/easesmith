@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/easesmith/static/css/main.bfc0a8a8.css",
-    "main.js": "/easesmith/static/js/main.d1c0b43d.js",
+    "main.js": "/easesmith/static/js/main.f6ff89a6.js",
     "index.html": "/easesmith/index.html",
     "main.bfc0a8a8.css.map": "/easesmith/static/css/main.bfc0a8a8.css.map",
-    "main.d1c0b43d.js.map": "/easesmith/static/js/main.d1c0b43d.js.map"
+    "main.f6ff89a6.js.map": "/easesmith/static/js/main.f6ff89a6.js.map"
   },
   "entrypoints": [
     "static/css/main.bfc0a8a8.css",
-    "static/js/main.d1c0b43d.js"
+    "static/js/main.f6ff89a6.js"
   ]
 }
